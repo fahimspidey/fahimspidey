@@ -1,169 +1,233 @@
+<!-- ██████████████████████████████████████████████████████████ -->
+<!-- ██            FAHIM SPIDEY — GITHUB PROFILE README       ██ -->
+<!-- ██████████████████████████████████████████████████████████ -->
+
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Fahim%20Spidey&fontSize=70&fontColor=00f5ff&fontAlignY=38&desc=Developer%20%7C%20Open%20Source%20Lover%20%7C%20Building%20My%20Future&descSize=18&descAlignY=60&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED HEADER BANNER                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Fahim+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;Open+Source+Enthusiast+%F0%9F%8C%8D;Always+Learning%2C+Always+Building+%F0%9F%94%A5" alt="Typing SVG" />
-</a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:FF0000&height=200&section=header&text=Hi%20%F0%9F%91%8B%20I'm%20Fahim%20Spidey&fontSize=45&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Digital%20Web&descAlignY=58&descSize=18&descColor=FF4444" />
 
 <br/>
 
-<!-- Profile Views & Followers -->
-<img src="https://komarev.com/ghpvc/?username=FahimSpidey&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/FahimSpidey?style=for-the-badge&color=302b63&labelColor=0f0c29&label=FOLLOWERS" alt="Followers"/>
+<!-- TYPING ANIMATION -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=💻+Developer;🌍+Open+Source+Lover;🚀+Dream+Chaser;🔥+Future+Builder;🕷️+Fahim+Spidey+in+the+Web!" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- SOCIAL BADGES ROW -->
+[![GitHub](https://img.shields.io/badge/GitHub-FahimSpidey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/FahimSpidey)
+[![Discord](https://img.shields.io/badge/Discord-FahimSpidey-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FahimSpidey-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d)](https://instagram.com)
+
+<br/>
+
+<!-- VISITOR COUNTER -->
+<img src="https://komarev.com/ghpvc/?username=FahimSpidey&label=Profile+Visitors&color=FF0000&style=for-the-badge&labelColor=0d0d0d" alt="Visitor Counter" />
 
 </div>
 
 ---
 
-<!-- About Me Section -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ABOUT ME SECTION                     -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-## 🧬 About Me
+## 🕷️ About Me
+
+<img align="right" alt="Coding Spider" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:12px"/>
 
 </div>
 
 ```yaml
-name:     Fahim Spidey
-role:     Developer
-passion:  Open Source & Building Cool Things
-motto:    "Code is Poetry, Ship it with Purpose"
-status:   🔥 Always Building
+Name        : Fahim Spidey
+Role        : Developer & Open Source Enthusiast
+Status      : Building My Future 🔥
+Learning    : New Skills Everyday ⚡
+Mission     : Success Before 2027 🎯
+Superpower  : Spinning Code Webs 🕸️
 ```
 
-<table align="center">
-  <tr>
-    <td>
+<br/>
 
-- 💻 **Developer** crafting clean & efficient code
-- 🌍 **Open Source Lover** — contributing to the community
-- 🔥 **Hustling** to build my future, one commit at a time
-- 🕷️ **Fahim Spidey** — with great code comes great responsibility
-- 🌱 Always learning something new
-- ⚡ Fun fact: I debug with `console.log` and I'm proud of it
+🚀 **About Me**
 
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
+- 💻 &nbsp; **Developer** — Writing code, building dreams
+- 🌍 &nbsp; **Open Source Lover** — Sharing is caring
+- 🔥 &nbsp; **Building My Future** — One commit at a time
+- ⚡ &nbsp; **Learning New Skills Everyday** — Never stop growing
+- 🎯 &nbsp; **Goal: Success Before 2027** — Watch me rise
+
+<br/>
 
 ---
 
-<!-- Tech Stack -->
-<div align="center">
-
-## 🛠️ Tech Stack & Tools
-
-</div>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                      TECH STACK / SKILLS                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-**Languages**
+## ⚡ Tech Stack & Skills
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ROW 1 -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0d0d0d" />
 
-**Frameworks & Tools**
+<br/>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- ROW 2 -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=0d0d0d" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<!-- ANIMATED SKILL BARS using progress-like shields -->
+
+| Skill | Level |
+|-------|-------|
+| 🌐 HTML / CSS | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-FF0000?style=flat-square&labelColor=0d0d0d) |
+| ⚡ JavaScript | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-FF4444?style=flat-square&labelColor=0d0d0d) |
+| 🐍 Python | ![](https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-CC0000?style=flat-square&labelColor=0d0d0d) |
+| ⚛️ React | ![](https://img.shields.io/badge/▓▓▓▓▓▓░░░░-60%25-990000?style=flat-square&labelColor=0d0d0d) |
+| 🟢 Node.js | ![](https://img.shields.io/badge/▓▓▓▓▓░░░░░-50%25-770000?style=flat-square&labelColor=0d0d0d) |
 
 </div>
 
 ---
 
-<!-- GitHub Stats -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     GITHUB STATS SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=FahimSpidey&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&ring_color=302b63" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSpidey&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" height="180"/>
-
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FahimSpidey&theme=tokyonight&hide_border=true&background=0d1117&stroke=302b63&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff" width="500"/>
+<!-- STATS CARD + STREAK SIDE BY SIDE -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FahimSpidey&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF0000&icon_color=FF4444&text_color=ffffff&border_color=FF0000&border_radius=10&include_all_commits=true&count_private=true" />
+&nbsp;
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FahimSpidey&theme=dark&background=0d0d0d&ring=FF0000&fire=FF4444&currStreakLabel=FF0000&sideLabels=FF4444&border=FF0000&dates=888888&border_radius=10" />
 
-</div>
+<br/><br/>
 
----
+<!-- TOP LANGUAGES -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FahimSpidey&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF0000&text_color=ffffff&border_color=FF0000&border_radius=10&langs_count=8" />
 
-<!-- Activity Graph -->
-<div align="center">
+<br/><br/>
 
-## 🌐 Contribution Graph
+<!-- ACTIVITY GRAPH -->
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=FahimSpidey&bg_color=0d0d0d&color=FF4444&line=FF0000&point=ffffff&area=true&area_color=8B0000&hide_border=false&border_color=FF0000&radius=10" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FahimSpidey&bg_color=0d1117&color=00f5ff&line=302b63&point=a78bfa&area=true&hide_border=true" width="100%"/>
+<br/><br/>
 
-</div>
-
----
-
-<!-- Trophies -->
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=FahimSpidey&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" width="100%"/>
-
-</div>
-
----
-
-<!-- Connect Section -->
-<div align="center">
-
-## 🔗 Connect With Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-FahimSpidey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FahimSpidey)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-
-</div>
-
----
-
-<!-- Quote -->
-<div align="center">
-
-## 💬 Dev Quote of the Day
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="600"/>
-
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-
-## 🐍 Watch My Contributions Get Eaten
+<!-- SNAKE CONTRIBUTION ANIMATION -->
+### 🐍 Watch My Contributions Get Eaten!
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake-dark.svg" width="95%" />
 </picture>
 
 </div>
 
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  CONNECT WITH ME SECTION                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
-  <sub>⚡ Made with ❤️ by <b>Fahim Spidey</b> — keep building, keep shipping 🚀</sub>
+
+## 🌐 Connect With Me
+
+<br/>
+
+<a href="https://github.com/FahimSpidey">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-Join_Server-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d" />
+</a>
+&nbsp;
+<a href="https://instagram.com">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d0d0d" />
+</a>
+
+<br/><br/>
+
+<!-- ANIMATED GIF -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />&nbsp;
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
+
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   TROPHIES / ACHIEVEMENTS                  -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=FahimSpidey&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=FF0000" width="95%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     QUOTES / MOTIVATION                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 💬 Dev Quote of the Day
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0d0d0d&quote_color=FF4444&author_color=FF0000" width="80%" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ANIMATED FOOTER WAVE                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<br/>
+
+### 🕷️ *"With great power comes great responsibility — and great commits."*
+
+<br/>
+
+<!-- VISITOR COUNTER BOTTOM -->
+<img src="https://komarev.com/ghpvc/?username=FahimSpidey&label=👁️+Profile+Views&color=FF0000&style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+<!-- ANIMATED WAVE FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:0d0d0d&height=130&section=footer&text=Thanks%20for%20visiting%20my%20profile%20%E2%9D%A4%EF%B8%8F&fontSize=22&fontColor=FFFFFF&animation=fadeIn&fontAlignY=65" />
+
+</div>
+
+<!-- ██████████████████████████████████████████████████████████ -->
+<!--           Made with ❤️ by Fahim Spidey 🕷️                 -->
+<!-- ██████████████████████████████████████████████████████████ -->
