@@ -12,13 +12,6 @@
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=600&height=60&lines=💻+Developer;🌍+Open+Source+Lover;🚀+Dream+Chaser;🔥+Future+Builder;🕷️+Fahim+Spidey+in+the+Web!" alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 <!-- SOCIAL BADGES ROW -->
 [![GitHub](https://img.shields.io/badge/GitHub-FahimSpidey-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0d0d)](https://github.com/FahimSpidey)
 [![Discord](https://img.shields.io/badge/Discord-FahimSpidey-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d0d0d)](https://discord.com)
