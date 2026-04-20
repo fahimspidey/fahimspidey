@@ -126,15 +126,6 @@ Superpower  : Spinning Code Webs 🕸️
 
 <br/><br/>
 
-<!-- SNAKE CONTRIBUTION ANIMATION -->
-### 🐍 Watch My Contributions Get Eaten!
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/FahimSpidey/FahimSpidey/output/github-snake-dark.svg" width="95%" />
-</picture>
-
 </div>
 
 ---
