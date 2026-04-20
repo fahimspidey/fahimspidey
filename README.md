@@ -179,20 +179,6 @@ Superpower  : Spinning Code Webs 🕸️
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   TROPHIES / ACHIEVEMENTS                  -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=FahimSpidey&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7&title_color=FF0000" width="95%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
 <!--                     QUOTES / MOTIVATION                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
